@@ -1,4 +1,5 @@
 import logo from '../assets/logo.png'
+import navbg from '../assets/bgWhite.png'
 
 
 
@@ -6,4 +7,5 @@ import logo from '../assets/logo.png'
 
 export default {
     logo,
+    navbg,
 }
