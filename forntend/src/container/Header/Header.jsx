@@ -47,7 +47,7 @@ const Header = () => {
           <span>👋</span>
           <div style={{ marginLeft: 20 }}>
             <p className="p-text">Hello, I am</p>
-            <h1 className="head-text">{textData[textIndex]}</h1>
+            <h1 style={{color:'#ff014f'}} className="head-text">{textData[textIndex]}</h1>
           </div>
         </div>
 
